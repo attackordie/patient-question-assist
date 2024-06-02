@@ -1,0 +1,64 @@
+# Flutter/Dart/Pub related
+**/build/
+**/ios/Flutter/.last_build_id
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.dart_tool/
+*.lock
+*.log
+*.iml
+*.ipr
+*.iws
+.idea/
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache
+build/
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+.pub-cache/
+.sass-cache/
+*~
+
+# Visual Studio Code
+.vscode/
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+**/build/
+caches/
+
+# Web related
+.dart_tool/
+.packages
+.pub-cache
+build/
+
+# Windows related
+*.dll
+*.exe
+*.ps1
+*.bat
+*.cmd
+*.pdb
+
+# Mac related
+.DS_Store
+
+# Environment variable files
+.env
